@@ -1,0 +1,13 @@
+c:\users\alvaro\documents\visual studio 2013\Projects\GimmeAHit - Reader\GimmeAHit - Reader\bin\Debug\GimmeAHit - Reader.exe.config
+C:\Users\Alvaro\Documents\Visual Studio 2013\Projects\GimmeAHit - Reader\GimmeAHit - Reader\bin\Debug\GimmeAHit - Reader.exe
+C:\Users\Alvaro\Documents\Visual Studio 2013\Projects\GimmeAHit - Reader\GimmeAHit - Reader\bin\Debug\GimmeAHit - Reader.pdb
+C:\Users\Alvaro\Documents\Visual Studio 2013\Projects\GimmeAHit - Reader\GimmeAHit - Reader\bin\Debug\GimmeAHit - Reader.xml
+C:\Users\Alvaro\Documents\Visual Studio 2013\Projects\GimmeAHit - Reader\GimmeAHit - Reader\obj\Debug\GimmeAHit___Reader.frmMain.resources
+C:\Users\Alvaro\Documents\Visual Studio 2013\Projects\GimmeAHit - Reader\GimmeAHit - Reader\obj\Debug\GimmeAHit___Reader.frmOptions.resources
+C:\Users\Alvaro\Documents\Visual Studio 2013\Projects\GimmeAHit - Reader\GimmeAHit - Reader\obj\Debug\GimmeAHit___Reader.Resources.resources
+C:\Users\Alvaro\Documents\Visual Studio 2013\Projects\GimmeAHit - Reader\GimmeAHit - Reader\obj\Debug\GimmeAHit - Reader.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\Visual Studio 2013\Projects\GimmeAHit - Reader\GimmeAHit - Reader\obj\Debug\GimmeAHit - Reader.exe
+C:\Users\Alvaro\Documents\Visual Studio 2013\Projects\GimmeAHit - Reader\GimmeAHit - Reader\obj\Debug\GimmeAHit - Reader.xml
+C:\Users\Alvaro\Documents\Visual Studio 2013\Projects\GimmeAHit - Reader\GimmeAHit - Reader\obj\Debug\GimmeAHit - Reader.pdb
+C:\Users\Alvaro\Documents\Visual Studio 2013\Projects\GimmeAHit - Reader\GimmeAHit - Reader\obj\Debug\GimmeAHit___Reader.frmChannels.resources
+C:\Users\Alvaro\documents\visual studio 2013\Projects\GimmeAHit - Reader\GimmeAHit - Reader\obj\Debug\GimmeAHit - Reader.vbprojResolveAssemblyReference.cache

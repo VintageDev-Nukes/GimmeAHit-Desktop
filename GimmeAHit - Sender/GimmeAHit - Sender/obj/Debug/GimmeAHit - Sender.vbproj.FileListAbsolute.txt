@@ -1,0 +1,11 @@
+c:\users\alvaro\documents\visual studio 2013\Projects\GimmeAHit - Sender\GimmeAHit - Sender\bin\Debug\GimmeAHit - Sender.exe.config
+C:\Users\Alvaro\documents\visual studio 2013\Projects\GimmeAHit - Sender\GimmeAHit - Sender\bin\Debug\GimmeAHit - Sender.exe
+C:\Users\Alvaro\documents\visual studio 2013\Projects\GimmeAHit - Sender\GimmeAHit - Sender\bin\Debug\GimmeAHit - Sender.pdb
+C:\Users\Alvaro\documents\visual studio 2013\Projects\GimmeAHit - Sender\GimmeAHit - Sender\bin\Debug\GimmeAHit - Sender.xml
+C:\Users\Alvaro\documents\visual studio 2013\Projects\GimmeAHit - Sender\GimmeAHit - Sender\obj\Debug\GimmeAHit___Sender.frmMain.resources
+C:\Users\Alvaro\documents\visual studio 2013\Projects\GimmeAHit - Sender\GimmeAHit - Sender\obj\Debug\GimmeAHit___Sender.frmLogin.resources
+C:\Users\Alvaro\documents\visual studio 2013\Projects\GimmeAHit - Sender\GimmeAHit - Sender\obj\Debug\GimmeAHit___Sender.Resources.resources
+C:\Users\Alvaro\documents\visual studio 2013\Projects\GimmeAHit - Sender\GimmeAHit - Sender\obj\Debug\GimmeAHit - Sender.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\documents\visual studio 2013\Projects\GimmeAHit - Sender\GimmeAHit - Sender\obj\Debug\GimmeAHit - Sender.exe
+C:\Users\Alvaro\documents\visual studio 2013\Projects\GimmeAHit - Sender\GimmeAHit - Sender\obj\Debug\GimmeAHit - Sender.xml
+C:\Users\Alvaro\documents\visual studio 2013\Projects\GimmeAHit - Sender\GimmeAHit - Sender\obj\Debug\GimmeAHit - Sender.pdb
